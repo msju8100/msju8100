@@ -1,4 +1,4 @@
-### <div align="center">Hi there👋 <br>I'm Misook.🌻</div>  
+### <div align="center">Hi there👋 I'm Misook.🌻</div>  
   
 
 - 🌱 I’m currently learning javascript.  
